@@ -310,7 +310,7 @@ tvStatic.rotation = Setting("aspectDepend", "snap_rotation");
 
 //snap (video or screenshot) on cab screen ------------- START
 
-# START LATO SX - ALTEZZA - LUNGHEZZA - ALLARGA VERSO BASSO
+# START LATO SX - ALTEZZA - LUNGHEZZA DX - ALLARGA VERSO BASSO
 local cabScreen = fe.add_artwork ("snap", blip*0.1850, blip*0.424, blip*0.476, blip*0.3310);
 cabScreen.skew_x = Setting("aspectDepend", "snap_skewX");
 cabScreen.skew_y = Setting("aspectDepend", "snap_skewY");
