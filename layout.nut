@@ -23,8 +23,6 @@
 // to code AM themes
 //
 // -------------------------------------------------------
-// zonto
-// onto
 
 class UserConfig {
 
