@@ -23,8 +23,6 @@
 // to code AM themes
 //
 // -------------------------------------------------------
-//aaaa
-// bbbb
 
 class UserConfig {
 
